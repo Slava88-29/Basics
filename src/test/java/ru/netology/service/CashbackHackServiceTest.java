@@ -1,12 +1,13 @@
 package ru.netology.service;
 
-import junit.framework.TestCase;
-public class CashbackHackServiceTest extends TestCase {
+import org.junit.Test;
 
-    public void setUp() throws Exception {
-        super.setUp();
-    }
+import static org.junit.Assert.*;
 
-    public void testRemain() {
+public class CashbackHackServiceTest {
+
+    @Test
+    public void remain() {
+
     }
 }
